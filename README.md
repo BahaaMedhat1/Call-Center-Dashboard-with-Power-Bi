@@ -71,7 +71,7 @@ The dashboard is designed to track and analyze key performance indicators (KPIs)
 For questions, feedback, or collaboration:  
 
 - **Name**: Bahaa Medhat Wanas 
-- **Email**: [your_email@example.com](mailto:your_email@example.com)  
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)   
+- **Email**: [your_email@example.com](mailto:bahaamedhat2022@gmail.com)  
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/bahaa-wanas-9797b923a)   
 
 ---
